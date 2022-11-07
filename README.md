@@ -10,3 +10,9 @@ What can learn from this project?
     2.Create and build a React website
     3.Develop functional React components
     4.Develop class-based React components
+    5.State
+    6.Forms and Controlled components
+    7.Render Props
+    8.Context.
+    9.Lifecycle Hooks
+    10.Observer patteren
